@@ -1,8 +1,8 @@
 # slowmovie
-超慢速电影
+简单的墨水屏超慢速电影树莓派播放器
 需要搭配微雪的例程包，根据你的屏幕信息修改slowmovie.py里的屏幕参数，ffmeg截取帧的分辨率也需要与你的屏幕相同
 然后把这个文件放入example里面
-
+下载ffmpeg和pl等运行slowmovie.py即可
 
 Resources
  Readme
